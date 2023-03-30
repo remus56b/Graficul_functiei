@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1642003946 source:c:\users\remus\desktop\ip\proiect_finaal\main.cpp
+	<iostream>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+
